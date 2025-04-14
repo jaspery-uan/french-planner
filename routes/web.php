@@ -31,3 +31,4 @@ Route::get('/student', function () {
     return view('studentlayout');
 });
 
+#hello!!!!!
